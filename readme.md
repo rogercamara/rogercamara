@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Roger, do Rogerverso
-Atualmente, atuo como UX Designer e Researcher focado em Inovação desenvolvendo pesquisas e projetos através das ferramentas e metodologias do design estratégico e lean inception, com foco na inovação, experiência centrada no usuário e suas interações com interfaces digitais e novos canais consumo.
+# Hello, Im Roger, from Rogerverso
+As a UX Manager at Grupo Bandeirantes de Comunicação, I lead the UX team in creating innovative and user-centered solutions for Band.com and Bandplay projects. I use strategic design and lean inception tools and methodologies to deliver high-quality digital products and services.
 
-Com mais de 14 anos de experiência como designer, atuei em projetos para grandes empresas do varejo brasileiro e latino-americano, desenvolvendo soluções estratégicas para a internacionalização de marcas, relacionamento com o consumidor através de novos canais digitais e também ferramentas para a qualificação dos processos de vendas no setor B2B.
+I have over 14 years of design experience, working with large retail companies in Brazil and Latin America. I have developed strategic solutions for brand internationalization, customer engagement through new digital channels, and sales process optimization in the B2B sector.
