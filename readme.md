@@ -1,5 +1,3 @@
+I’m a UX Designer with 16 years of experience creating digital solutions for global brands. Sometimes, I call myself as Unexpected Designer — someone who builds innovative, unconventional experiences meant to spark positive feelings. I combine creativity, strategy, and technology to move past predictable solutions, crafting interactions that surprise, engage, and truly connect with people.
 
-# Alô, Im Roger, from Rogerverso
-As a UX Manager at Grupo Bandeirantes de Comunicação, I lead the UX team in creating innovative and user-centered solutions for Band.com and Bandplay projects. I use strategic design and lean inception tools and methodologies to deliver high-quality digital products and services.
-
-I have over 14 years of design experience, working with large retail companies in Brazil and Latin America. I have developed strategic solutions for brand internationalization, customer engagement through new digital channels, and sales process optimization in the B2B sector.
+Im currently into deep AI+Design concepts, looking for better ways to design the next human–machine interactions/behaviors. My focus is on refining UX-driven data through language models, vector databases, Python, and other emerging technologies to create smarter, more adaptive, and more meaningful experiences.
