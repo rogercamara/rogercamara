@@ -1,3 +1,6 @@
-I’m a UX Designer with 16 years of experience creating digital solutions for global brands. Sometimes, I call myself as Unexpected Designer — someone who builds innovative, unconventional experiences meant to spark positive feelings. I combine creativity, strategy, and technology to move past predictable solutions, crafting interactions that surprise, engage, and truly connect with people.
-
-Im currently into deep AI+Design concepts, looking for better ways to design the next human–machine interactions/behaviors. My focus is on refining UX-driven data through language models, vector databases, Python, and other emerging technologies to create smarter, more adaptive, and more meaningful experiences.
+# User Experience Designer
+18 years creating digital experiences for global brands.
+-
+Sometimes, I`m also a Unexpected Designer: who builds innovative and unconventional experiences meant to spark positive feelings.
+-
+I`m currently studying AI+Design concepts refining UX-driven data through language models, vector databases, python, and other emerging technologies to create smarter, more adaptive, and more meaningful experiences.
