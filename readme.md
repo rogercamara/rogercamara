@@ -1,7 +1,18 @@
-# User Experience Designer  
+# 👋 Olá, eu sou o Roger, especialista em design estratégico.
 
-💻 **18 years** crafting digital experiences for global brands  
+💻 18 anos de experiência desenvolvendo soluções para serviços dentro de grandes empresas do mercado nacional e internacional como Bandplay, Pix do Brasil e Amazon Marketplace.
 
-✨ Sometimes, I’m also an *Unexpected Designer* — creating innovative and unconventional experiences meant to spark positive feelings  
+🎓 Bacharel em Design Estratégico @ Unisinos - Porto Alegre
 
-🤖 Currently exploring the intersection of **AI + Design**, refining **UX-driven insights and researches** through  **AI Models + Vector DBs + Real time data** to create smarter, more adaptive, and more meaningful experiences for final users and companies.
+🎓 Mestre em Service Design @ Politecnica di Milano
+
+🚀 Atualmente atuo como designer de soluções digitais para o mercado imobiliário na Colnaghi Imóveis, desenvolvendo soluções baseadas em métodos do design.
+
+✨ Figma
+✨ Python
+✨ Next.JS
+✨ Typescript
+✨ TailwindCSS
+✨ Postgree
+✨ OpenAI 
+✨ n8n
